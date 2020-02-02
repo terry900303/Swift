@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  calculator
 //
-//  Created by 吳俊龍 on 2020/1/27.
-//  Copyright © 2020 com.jyunLong. All rights reserved.
+//  Created by Terry
 //小數點，單一個０重複不能按不能連續出現
 
 import UIKit
